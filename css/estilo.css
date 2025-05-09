@@ -8,19 +8,27 @@
 body {
    font-size: 1em;
    font-family: "Trebuchet MS", Helvetica, sans-serif;
-   /*background: ;*/
+   /*background: #4169E1;*/
 }
 
 /* Layout */
 
 #area-cabecalho {
-   background-color: #f7b600;
+   background-color: #4169E1;
    padding: 15px;
    text-align: center;
 }
 
 #area-logo, #area-menu {
    padding: 10px;
+}
+
+#area-logo h1{
+   font-size: 5em; /* tamanho do titulo da logo*/
+   font-weight: bold;
+   font-family: 'Segoe UI', 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; /* fontes da logo */
+   letter-spacing: 2px; /* espaçamento entre letras */
+   text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.3);
 }
 
 #area-principal{
@@ -70,7 +78,7 @@ a{
 }
 
 a:link, a:visited {
-   color: #f7b600;
+   color: #0000FF;
 }
 
 a:hover {
@@ -83,7 +91,7 @@ a:hover {
 }
 
 #area-cabecalho a:hover {
-   color: #f7b600;
+   color: #0000FF;
    background: #FFF;
    text-decoration: none;
 }
@@ -96,7 +104,7 @@ h1 {
 }
 
 h2 {
-   color: #f7b600;
+   color: #0000FF;
 }
 
 h3 {
