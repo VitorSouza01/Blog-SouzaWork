@@ -13,7 +13,7 @@ Este repositório apresenta o SouzaWork, um blog temático voltado para conteúd
 O SouzaWork foi construído utilizando apenas HTML e CSS, priorizando a leveza e a compatibilidade com diversos dispositivos.
 <br>A proposta é oferecer um ambiente simples e eficiente, ideal para quem está aprendendo ou deseja montar um portfólio com um projeto completo e organizado.
 
-<br>Este blog pode ser utilizado como base para estudos, customizações, ou até como ponto de partida para projetos mais avançados com integração de JavaScript e back-end futuramente.
+Este blog pode ser utilizado como base para estudos, customizações, ou até como ponto de partida para projetos mais avançados com integração de JavaScript e back-end futuramente.
 
 ## 🖥️ Tecnologia Utilizada
 - HTML
